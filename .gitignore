@@ -1,0 +1,19 @@
+# Data
+/data/*
+!/data/README.md
+
+# Models
+/models/*
+!/models/README.md
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+*.egg-info/

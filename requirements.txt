@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
+jupyterlab
+gym
+fastapi
+uvicorn
+streamlit
